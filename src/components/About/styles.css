@@ -1,0 +1,39 @@
+.container-about{
+    display: flex;
+    justify-content: center;
+    background-color: #429196;
+    color: #fff;
+    font-family: Urbanist;
+    font-size: 18px;
+}
+
+.image-about, .text-about{
+    padding: 50px;
+
+}
+
+.image-about{
+    display: flex;
+    flex-direction:column;
+    align-items:end;
+    font-size: 14px;
+    
+}
+
+.image-about img{
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.description-about{
+    width: 500px;
+}
+
+.text-about h1{
+    font-family: Staatliches, Urbanist;
+    font-size: 76px;
+    line-height: 94px;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+

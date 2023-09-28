@@ -1,0 +1,27 @@
+.container-casting{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #429196;
+}
+
+.container-casting h1{
+    font-family: Staatliches;
+}
+
+.categories-casting li{
+    display: flex;
+    flex-direction: row;
+    font-family: Urbanist;
+}
+
+.categories-casting ul{
+    padding: 25px;
+}
+
+.influencers{
+    display: grid;
+    
+}

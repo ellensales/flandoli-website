@@ -1,0 +1,35 @@
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+.header{
+    background-color: #429196;
+    color: #88C4C8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Urbanist", sans-serif;
+    font-size: 20px;
+}
+
+.ul-header{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.contact-header{
+    display: flex;
+    margin-right: 30px;
+}
+
+.contact-header img{
+    height: 32px;
+    padding: 5px;
+}
+
+.link-header.on{
+    color: #fff;
+}

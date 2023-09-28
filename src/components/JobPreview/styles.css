@@ -1,0 +1,34 @@
+.container-job-preview{
+    display: flex;
+    justify-content: center;
+
+}
+
+.job-preview{
+    padding: 25px;
+}
+
+.job-preview.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    font-family: Staatliches, Urbanist;
+    font-size: 36px;
+    color: #429196;
+    width: 480px;
+    text-align: right;
+}
+
+.button-job-preview{
+    color: #fff;
+    font-family: Staatliches, Urbanist;
+    font-size: 24px;
+    background-color: #429196;
+    border: 0;
+    border-radius: 15px;
+    padding: 15px;
+    width: 150px;
+}
+
+
